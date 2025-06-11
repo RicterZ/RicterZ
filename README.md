@@ -5,7 +5,6 @@ Instruction Manual of Ricter Z
 - Cat's slave, 猫猫天下第一！
 - A hacker, a programmer and a ~~hentai~~
 - An independent security researcher focused on large scale software
-- The biggest fan of Nimodi :)
 
 ### Blog
 - Currently maintained: https://ricterz.me/
@@ -13,10 +12,6 @@ Instruction Manual of Ricter Z
 - Weibo: https://weibo.com/r1cterz
 - Instagram (protected): https://www.instagram.com/ricterz/
 - Twitter (protected): https://twitter.com/ykco_z
-
-### CVEs
-- I don't really care about that stuff ...
-- Hack everything I want to
 
 ### Games
 - FFXIV, FFVII, NieR: Automata
