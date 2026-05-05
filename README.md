@@ -14,8 +14,6 @@ Instruction Manual of Ricter Z
 - Twitter (protected): https://twitter.com/ykco_z
 
 ### Games
-- FFXIV, FFVII, NieR: Automata
-- World of Warships, Mahjong Soul, osu!
-- Watch Dogs, Far Cry, Cyberpunk 2077
-- The Legend of Zelda, Xenoblade
-
+- Steam: https://steamcommunity.com/id/ricterz
+- PSN: https://profile.playstation.com/R1ct0rZ
+- FFXIV (China mainland, HaiMaoChaWu)
